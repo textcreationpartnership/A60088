@@ -1,0 +1,650 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Short principles of religion</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60088</idno>
+            <idno type="STC">Wing S3612</idno>
+            <idno type="STC">ESTC R214772</idno>
+            <idno type="EEBO-CITATION">99826844</idno>
+            <idno type="PROQUEST">99826844</idno>
+            <idno type="VID">31253</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60088)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31253)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1770:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Short principles of religion</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.B. for Samuel Enderby, and are to be sold at his shop at the signe of the Star in Popes-head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+               <term>Theology, Doctrinal --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31253:1"/>
+            <pb facs="tcp:31253:1" rendition="simple:additions"/>
+            <p>
+               <hi>SHORT</hi> PRINCIPLES OF <hi>RELIGION.</hi>
+            </p>
+            <figure/>
+            <p>LONDON: Printed by <hi>T. B.</hi> for <hi>Samuel Enderby</hi> and are to be ſold at his Shop at the ſigne of the <hi>Star</hi> in Popes-head-Alley, 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:31253:2"/>
+            <pb facs="tcp:31253:2"/>
+            <head>Question.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hat is God?</hi>
+            </p>
+            <p>
+               <label>A.</label> God is a pure and an incomprehenſible ſpi<g ref="char:EOLhyphen"/>rit, <hi>Joh. 4.24.</hi> having his being of himſelfe, <hi>Exod. 3.14.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>How many Gods are there?</hi>
+            </p>
+            <p>
+               <label>A.</label> No moe but one, <hi>1 Cor. 8.6.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>How many Perſons are there in that one God-head?</hi>
+            </p>
+            <p>
+               <label>A.</label> Thrée: the Father, the Sonne, and the Holy Ghoſt, <hi>1 John 5.7.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>How are we to conceive of God?</hi>
+            </p>
+            <p>
+               <label>A.</label> Not as of any bodily ſubſtance, but onely as he hath revealed himſelfe in his works and word; namely, to he a ſpirit of infinite power, wiſdome, holineſſe, &amp;c. and our mercifull Father in Ieſus Chriſt, <hi>Deut. 4.16. John 17.3.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>In what eſtate was man created by God?</hi>
+            </p>
+            <p>
+               <label>A.</label> In a good eſtate, holy, righteous, and happy, <hi>Gen. 12.7.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>In what eſtate is every man borne?</hi>
+            </p>
+            <p>
+               <label>A.</label> In a moſt miſerable eſtate, <hi>Pſ. 51.5.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:31253:3"/>
+               <label>Q.</label> 
+               <hi>
+                  <hi>What is the cauſe of that miſery?</hi>
+               </hi>
+            </p>
+            <p>
+               <label>A.</label> Originall ſinne which came by <hi>A<g ref="char:EOLhyphen"/>dams</hi> fall, <hi>Rom. 5.12.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>
+                  <hi>What are the parts of originall ſinne?</hi>
+               </hi>
+            </p>
+            <p>
+               <label>A.</label> Theſe two: firſt, the imputation of <hi>Adams</hi> actuall tranſgreſſion unto us: and ſecondly, the univerſall depravation and corruption of our natures iſſuing from that ſinne imputed, <hi>Rom. 5.19.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>
+                  <hi>How could Adams ſinne redound and be imputed unto us?</hi>
+               </hi>
+            </p>
+            <p>
+               <label>A.</label> Becauſe we were in his loyns as in the loynes of our common parent who ha<g ref="char:EOLhyphen"/>ving received in his creation holineſſe and happineſſe for himſelf and his poſterity by the righteous decrée of God through his fall loſt them, for both implunging both himſelf &amp; them into ſin and miſery, <hi>Ro. 19.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Can a man by nature doe nothing of himſelfe that is pleaſing unto God?</hi>
+            </p>
+            <p>
+               <label>A.</label> No: for originall ſinne hath wholy corrupted the whole man, with the ſéeds of all manner of ſinne, <hi>Gen. 6.5.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Are men that live unto yeeres guilty of no other ſinnes beſides originall?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yes: they are guilty alſo of actuall ſinnes.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhat is ſinne?</hi>
+            </p>
+            <p>
+               <label>A.</label> The tranſgreſſion of the Law,
+<pb facs="tcp:31253:3"/>
+               <hi>1 John</hi> 3.4.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the puniſhment of ſinne?</hi>
+            </p>
+            <p>
+               <label>A.</label> Beſides other inferiour puniſh<g ref="char:EOLhyphen"/>ments, the maine puniſhment thereof is eternall death, conſiſting in the ſeperati<g ref="char:EOLhyphen"/>on of ſoule and body from God and the joyes of Heaven, and the undergoing of everlaſting torments in hell with the de<g ref="char:EOLhyphen"/>vill and his Angels for ever, <hi>Rom. 8.23.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Shall none eſcape this puniſhment?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yea, all the elect, <hi>Rom. 6.30.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Who is appointed to redeem the E<g ref="char:EOLhyphen"/>lect from this puniſhment?</hi>
+            </p>
+            <p>
+               <label>A.</label> Chriſt Ieſus, God &amp; man, <hi>Eph. 1.7.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What hath he done to redeeme them?</hi>
+            </p>
+            <p>
+               <label>A.</label> He having perfectly fulfilled the whole Law, hath ſuffered a violent death of the body, and grievous torments upon his ſoule for them. <hi>Mat. 27.46.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Why was Chriſt man?</hi>
+            </p>
+            <p>
+               <label>A.</label> Firſt, that he might ſuffer. Second<g ref="char:EOLhyphen"/>ly, that the merit of his ſuffering might be accepted for mans ſinne, for by the order of Gods Law and juſtice that nature that had ſinned, muſt néeds ſatisfie for ſinne, <hi>Heb. 2.14, 16, 17.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>But how could it ſtand with the equity and juſtice of God, to puniſh his
+<pb facs="tcp:31253:4"/>Sonne Jeſus Chriſt for the ſins of the elect?</hi>
+            </p>
+            <p>
+               <label>A.</label> 
+               <g ref="char:V">Ʋ</g>ery well, becauſe he became their ſurety, being both willing and able to en<g ref="char:EOLhyphen"/>dure the puniſhment to be inflicted, and to deliver himſelfe out of it, <hi>Heb. 7.22.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Why was he God?</hi>
+            </p>
+            <p>
+               <label>A.</label> a Firſt, that he might ſuſtaine his humane nature in ſuffering, and ſo wind himſelfe out of the torment. <hi>b</hi> Secondly, that his ſuffering might be of an infinite merit to ſatisfie Gods infinite wrath pro<g ref="char:EOLhyphen"/>voked by mans ſin, <hi>a Act. 2.24. b Heb. 9.14.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>How could the Death of Chriſt re<g ref="char:EOLhyphen"/>ceive ſuch efficacy from the divine nature, ſeeing the divine nature did not ſuffer?</hi>
+            </p>
+            <p>
+               <label>A.</label> Firſt, becauſe the humane nature which did ſuffer, was conjoyned with the divine in one and the ſelfe-ſame perſon, and therefore that which was done in the humane nature is attributed to the whole perſon conſiſting of both natures. Se<g ref="char:EOLhyphen"/>condly, becauſe the divine did uphold the humane nature in ſuffering, and deliver if out of the ſuffering, and ſo the compleat work of mans redemption dependeth upon both natures, <hi>Acts 20.28.</hi>
+            </p>
+            <p>
+               <hi>Q But how can the merits and ſuffe<g ref="char:EOLhyphen"/>rings of Chriſt being but one, be extended ſo farre as to take away the ſinnes of the E<g ref="char:EOLhyphen"/>lect.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:31253:4"/>
+               <label>A.</label> Becauſe he was a publique perſon, ſuſtaining all their natures, and ſuffering in their names, <hi>Rom. 5.15.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>By what meanes are the Elect made partakers of Chriſt and his benefits?</hi>
+            </p>
+            <p>
+               <label>A.</label> By faith, <hi>Acts 13.39.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is faith?</hi>
+            </p>
+            <p>
+               <label>A.</label> A true perſwaſion wrought in the heart of an humbled ſinner by the ſpirit of God, and grounded upon the Goſpell, whereby he applies Chriſt and all his me<g ref="char:EOLhyphen"/>rits to himſelfe, <hi>Gal. 2.20.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Doth faith ſave us for the worthi<g ref="char:EOLhyphen"/>neſſe of it ſelfe?</hi>
+            </p>
+            <p>
+               <label>A.</label> No: but onely for the worthineſſe of the object whom it layeth hold upon; namely Chriſt &amp; all his merits, <hi>Acts 4.12.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What meanes doth the ſpirit of God uſe to prepare a man for faith?</hi>
+            </p>
+            <p>
+               <label>A.</label> The preaching of the Law, whereby he worketh in him a ſight and ſenſe of his own ſinne and miſery, <hi>Rom. 3.20.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What meanes doth the ſpirit of God uſe for the working of faith?</hi>
+            </p>
+            <p>
+               <label>A.</label> The preaching of the goſpel. <hi>Ro. 10.14</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What meanes are appointed for the increaſing of faith?</hi>
+            </p>
+            <p>
+               <label>A.</label> Divers, principally theſe; firſt, the word preached; ſecondly, Prayer; thirdly, the Sacrament.</p>
+            <p>
+               <pb facs="tcp:31253:5"/>
+               <label>Q.</label> 
+               <hi>What is a Sacrament?</hi>
+            </p>
+            <p>
+               <label>A.</label> An outward ſeale of the Covenant of grace in Chriſts blood, and of the righte<g ref="char:EOLhyphen"/>ouſneſſe thereof, <hi>Rom. 4.11.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>How many Sacraments are there?</hi>
+            </p>
+            <p>
+               <label>A.</label> Two onely, Baptiſme and the Lords Supper.</p>
+            <p>Q <hi>To what uſe ſerve the Sacraments?</hi>
+            </p>
+            <p>
+               <label>A.</label> To ſtrengthen the weake faith and féeling of Gods Elect in the benefits that come by Chriſt.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What benefits doe the Elect receive by Chriſt?</hi>
+            </p>
+            <p>
+               <label>A.</label> All benefits that are promiſed in the Covenant of grace, both temporall, ſpiritu<g ref="char:EOLhyphen"/>all and eternall, more ſpecially theſe four, as principall, Iuſtification, Mortification, Sanctification and Salvation, <hi>2 Cor. 1.20. 1 Cor. 1.30.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>By what action in Baptiſme is our Juſtification and Mortification ſignified un<g ref="char:EOLhyphen"/>to us?</hi>
+            </p>
+            <p>
+               <label>A.</label> By the waſhing of the body in the water, and by the continuance of the bo<g ref="char:EOLhyphen"/>dy under the water for ſome ſhort ſpace; for thereby is ſignified the drowning and burying of our ſinne; in Chriſts blood, both in regard of the g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ilt of them which is our juſtification, as alſo in regard of the
+<pb facs="tcp:31253:5"/>power of them, which is our mortification, <hi>Rom. 6.3, 4.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>By what action in Baptiſme is our ſanctification and ſalvation confirmed?</hi>
+            </p>
+            <p>
+               <label>A.</label> By the raiſing of the body alive out of the water, for thereby is ſignified both our riſing againe unto newneſſe of life in this world, and unto eternall in the world to come, <hi>Rom. 6.4, 5. Col. 2.12.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What conditions is the party bapti<g ref="char:EOLhyphen"/>zed bound unto?</hi>
+            </p>
+            <p>
+               <label>A.</label> He is bound to beléeve and to re<g ref="char:EOLhyphen"/>pe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, <hi>Mark 16.16. Luke. 3.3.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Why then are Infants baptized who cannot performe theſe conditions?</hi>
+            </p>
+            <p>
+               <label>A.</label> Theſe conditions are for the preſent performed, or at the leaſt profeſſed by their Parents, or other in their ſtead, who pro<g ref="char:EOLhyphen"/>miſe ſo to bring up their Children in the nurture of the Lord, as that in time by the Lords mercy they themſelves may per<g ref="char:EOLhyphen"/>forme them; and thus were the children of the godly in the old Teſtament circumci<g ref="char:EOLhyphen"/>ſed. <hi>Gen. 17.12.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>By what action are the aforeſaid be<g ref="char:EOLhyphen"/>nefits which we receive by Chriſt confirm<g ref="char:EOLhyphen"/>ed unto us in the Lords Supper?</hi>
+            </p>
+            <p>
+               <label>A.</label> By the eating and drinking of bread and wine according to Chriſts inſtitution
+<pb facs="tcp:31253:6"/>for the nouriſhing of our bodies: for there<g ref="char:EOLhyphen"/>by is ſignified our ſpirituall eating and drinking of Chriſt Ieſus his body and blood, and ſo of all the benefits of his death, buriall and reſurrection for the nouriſh<g ref="char:EOLhyphen"/>ment of our ſouls, <hi>1 Cor. 10.16, 17.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What doth the Miniſters conſecra<g ref="char:EOLhyphen"/>ting of the bread and wine ſignifie?</hi>
+            </p>
+            <p>
+               <label>A.</label> The Lords conſecrating of his Sonne to be our high Prieſt and Redée<g ref="char:EOLhyphen"/>mer<g ref="char:punc">▪</g> 
+               <hi>Joh. 6.26. Pſal. 110.4.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What doth the breaking of the bread, and the powring forth of the wine ſignifie?</hi>
+            </p>
+            <p>
+               <label>A.</label> The crucifying of Chriſts body and the ſhedding of his blood, <hi>1 Cor. 11.24, 25. Mat. 26.28.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What doth the Miniſters offering of the bread and wine to every one, and his commanding him to take it ſignifie?</hi>
+            </p>
+            <p>
+               <label>A.</label> The Lords offering of his Sonne to every one of his elect particularly, and his commanding of him to beléeve on his Name, <hi>Luke 22.19.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What muſt he doe who would re<g ref="char:EOLhyphen"/>ceive this Sacrament worthily?</hi>
+            </p>
+            <p>
+               <label>A.</label> He muſt examine himſelfe before he doe receive it, <hi>1 Cor. 11.28.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Wherein?</hi>
+            </p>
+            <p>
+               <pb facs="tcp:31253:6"/>
+               <label>A.</label> In theſe <hi>5.</hi> things chiefly. <hi>1.</hi> Whe<g ref="char:EOLhyphen"/>ther he underſtand and know the Princi<g ref="char:EOLhyphen"/>ples of Religion. <hi>2.</hi> Whether he beléeve. <hi>3.</hi> Whither he repent. <hi>4.</hi> Whether he be in love and charity with his brethren. <hi>5.</hi> Whether he come with a reverent re<g ref="char:EOLhyphen"/>ſpect to this Sacrament, as Gods holy Or<g ref="char:EOLhyphen"/>dinance,</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What muſt he doe after he hath re<g ref="char:EOLhyphen"/>ceived it?</hi>
+            </p>
+            <p>
+               <hi>A. 1.</hi> He muſt be thankfull, <hi>2.</hi> He muſt examine what benefit he hath got by recording of it, waiting for a bleſſing, <hi>1 Cor. 11.25.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>How many wayes doe the Sacra<g ref="char:EOLhyphen"/>ments confirme our faith; and aſſure us of the benefits mentioned before, to wit, of our Juſtification, Mortification, Sanctifica<g ref="char:EOLhyphen"/>tion, &amp;c?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 4. wayes.
+<list>
+                  <item>1. as Signes</item>
+                  <item>2. as Seales</item>
+                  <item>3. as Pledges</item>
+                  <item>4. as Inſtruments of conveyance</item>
+               </list> thereof<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What difference is there betweene theſe two Sacraments?</hi>
+            </p>
+            <p>
+               <label>A.</label> Baptiſme cofirmeth unto us our firſt ingrafting into Chriſt, and our firſt participation of theſe benefits: The Lords
+<pb facs="tcp:31253:7"/>Supper confirmeth the continuance and increaſe of theſe benefits in and unto us.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>
+                  <hi>What other grace is bred with faith and doth moſt ſpecially manifeſt it ſelfe to<g ref="char:EOLhyphen"/>gether with ſaith?</hi>
+               </hi>
+            </p>
+            <p>
+               <label>A.</label> The grace of true repentance, <hi>Zach. 12.10.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>
+                  <hi>How is repentance occaſioned?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A<g ref="char:punc">▪</g>
+               </hi> By the ſight and ſence of the mul<g ref="char:EOLhyphen"/>titude and greatneſſe of a mans ſins, &amp; ſo of the ſtaine and deſert of them, <hi>Jer. 39.19.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>How may a man come to know the multitude of his ſinnes?</hi>
+            </p>
+            <p>
+               <label>A.</label> By the holy law of God rightly un<g ref="char:EOLhyphen"/>derſtood, <hi>Rom. 3.20. Jam. 1.25.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>How may we underſtand the law aright?</hi>
+            </p>
+            <p>
+               <label>A.</label> For the underſtanding of it we muſt obſerve theſe four rules.</p>
+            <p>
+               <label>Q</label> 
+               <hi>What is the firſt?</hi>
+            </p>
+            <p>
+               <hi>A. 1.</hi> In every Commandement where any evill is forbidden, there the contrary good is commanded; and backe againe, where any duty is commanded, there the contrary ſinne is forbidden.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the ſecond?</hi>
+            </p>
+            <p>
+               <hi>A. 2.</hi> Vnder one good or evill action all of the ſame kind are comprehended, yea all occaſions and meanes leading there<g ref="char:EOLhyphen"/>unto.</p>
+            <p>
+               <pb facs="tcp:31253:7"/>
+               <label>Q.</label> 
+               <hi>What is the third?</hi>
+            </p>
+            <p>
+               <hi>A. 3.</hi> The Law is ſpirituall, and binds even the heart and the thoughts thereof.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the fourth?</hi>
+            </p>
+            <p>
+               <hi>A. 4.</hi> The Law requireth not onely our obſervation, but even our preſervation al<g ref="char:EOLhyphen"/>ſo, that is, that we do not onely kéep it our ſelves, but cauſe others alſo as much as in us lyeth to kéep it.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How may a man know the greatneſſe of his ſinnes?</hi>
+            </p>
+            <p>
+               <label>A.</label> By conſidering the circumſtances of committing them, as namely, that they have béen committed againſt knowledge and conſcience; againſt the meanes of re<g ref="char:EOLhyphen"/>ſtraint, and the meanes of grace, that we have long lien in them, without repen<g ref="char:EOLhyphen"/>tance, that by them we have pierced Chriſt, grieved his ſpirit, diſhonoured his Goſ<g ref="char:EOLhyphen"/>pell<g ref="char:punc">▪</g> offended our brethren, &amp;c.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What are the parts of repentance?</hi>
+            </p>
+            <p>
+               <label>A.</label> Two<g ref="char:punc">▪</g> humiliation and converſion.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How doth humiliation ſhew it ſelfe<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. By making a man humbly &amp; hear<g ref="char:EOLhyphen"/>tily confeſſe all, and eſpecially his known and greateſt ſinnes and corruptions.</item>
+                  <item>2. By making him judge and condemne himſelfe for them, <hi>Ezek.</hi> 36.31.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What be the parts of converſion?</hi>
+            </p>
+            <p>
+               <pb facs="tcp:31253:8"/>
+               <label>A.</label> Theſe two turning from all ſinne<g ref="char:punc">▪</g> and turning to all manner of good, and from theſe two ſpring a godly life.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is a godly life?</hi>
+            </p>
+            <p>
+               <label>A.</label> A ſincere earneſt and conſtant en<g ref="char:EOLhyphen"/>deavouring to forſake all ſinne, in thought word and déed<g ref="char:punc">▪</g> and to practiſe all Gods Commandements, <hi>Luke 1.74 75.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhat muſt we doe to live a godly life?</hi>
+            </p>
+            <p>
+               <label>A.</label> Two things. <hi>1.</hi> Vſe carefully and conſcionably all Gods Ordinances and meanes of grace. <hi>2.</hi> Follow ſound directi<g ref="char:EOLhyphen"/>ons and rules of Gods Word.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhich are the meanes of grace?</hi>
+            </p>
+            <p>
+               <label>A.</label> They are of two ſorts, more ordi<g ref="char:EOLhyphen"/>nary and leſſe ordinary.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhich be the ordinary?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. The Word preached.</item>
+                  <item>2. The Sacraments.</item>
+                  <item>3. Prayer,</item>
+                  <item>4. Reading.</item>
+                  <item>5. Singing of Pſalmes.</item>
+                  <item>6. Meditation.</item>
+                  <item>7. Conference.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhich be the leſſe ordinary?</hi>
+            </p>
+            <p>
+               <label>A.</label> They be thrée, holy faſting to be uſed upon ſome ſpeciall cauſe of mourning: ſe<g ref="char:EOLhyphen"/>condly, holy faſting to be uſed upon
+<pb facs="tcp:31253:8"/>ſome ſpeciall cauſe of rejoycing: and third<g ref="char:EOLhyphen"/>ly Vowes.</p>
+            <p>
+               <label>Q</label> 
+               <hi>What rules of direction may follow to help us forward in a godly life?</hi>
+            </p>
+            <p>
+               <label>A.</label> Theſe following.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the firſt?</hi>
+            </p>
+            <p>
+               <label>A. 1.</label>We muſt have a daily care to re<g ref="char:EOLhyphen"/>new our faith and repentance, <hi>Heb.</hi> 10.38.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the ſecond?</hi>
+            </p>
+            <p>
+               <label>A. 2.</label> We muſt daily labour to maintaine and intreaſe our firſt love and liking of God and his wayes. <hi>Rev.</hi> 2.4.5.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the third?</hi>
+            </p>
+            <p>
+               <label>A. 3.</label> We muſt daily watch in our ſpi<g ref="char:EOLhyphen"/>rituall armour againſt all ſinne, having an eye to our ſelves both in company and ſo<g ref="char:EOLhyphen"/>litarineſſe, in proſperity and adverſity, <hi>Epheſ.</hi> 6.10.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the fourth?</hi>
+            </p>
+            <p>
+               <label>A.</label> We muſt daily meditate and pray, <hi>Pſal.</hi> 1.2. 1 <hi>Theſ.</hi> 5.17.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the fift?</hi>
+            </p>
+            <p>
+               <label>A. 5.</label>
+               <list>
+                  <item>
+                     <hi>a</hi> We muſt upon the ſix dayes fol<g ref="char:EOLhyphen"/>low our particular callings faithfully, or otherwiſe lawfully intermit them;</item>
+                  <item>
+                     <hi>b</hi> and upon the Lords day attend the duties of the Lords immediate worſhip and ſervice and duties of Charity, <hi>a 1 Cor.</hi> 7.20. <hi>b Ex.</hi> 20.8.</item>
+               </list>
+            </p>
+            <p>
+               <pb facs="tcp:31253:9"/>
+               <label>Q</label> 
+               <hi>What is the ſixth?</hi>
+            </p>
+            <p>
+               <label>A. 6.</label> We muſt daily renew and conti<g ref="char:EOLhyphen"/>nue our thankſgiving for old and new mercies and for mercies yet ſtill hoped for, <hi>1 Theſ.</hi> 5.18.</p>
+            <p>Thus let us maintaine our peace with God, riſing up and lying down with it.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What ſhall become of the ungodly after this world be ended?</hi>
+            </p>
+            <p>
+               <label>A.</label> They ſhall be caſt both bodies an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſoules into hell into torments, eaſeleſſe<g ref="char:punc">▪</g> endleſſe, remedileſſe, helpleſſe and hope<g ref="char:EOLhyphen"/>leſſe everlaſtingly, <hi>Mat.</hi> 25.46.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What ſhall become of the Godly?</hi>
+            </p>
+            <p>
+               <label>A.</label> Their bodies ſhall be raiſed again by the omnipotent power of God, and being conjoyned to their ſoules, ſhall enjoy e<g ref="char:EOLhyphen"/>ternall glory with God and his holy Angels in Heaven for ever and ever, <hi>Mat<g ref="char:EOLhyphen"/>thew</hi> 25.46.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
